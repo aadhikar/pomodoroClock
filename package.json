@@ -1,0 +1,33 @@
+{
+  "name": "skyrock_framework",
+  "version": "0.0.1",
+  "description": "Advanced Front End Development Projects for Freecode Camp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "aadhikar"
+  },
+  "author": "Anilkumar Adhikari",
+  "license": "UNLICENCED",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.0",
+    "gulp-uglify": "^2.0.1",
+    "gulp-watch": "^4.3.11"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-run-sequence": "^0.3.2"
+  }
+}
